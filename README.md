@@ -45,3 +45,8 @@ posture_rep_counter/
 │
 ├── requirements.txt          
 └── README.md
+```
+For Video Data: (https://data.mendeley.com/datasets/kgbb3yn47p/2)
+
+
+
