@@ -49,10 +49,10 @@ posture_rep_counter/
 ## Steps to Follow:
 1) Download the videos data from (https://data.mendeley.com/datasets/kgbb3yn47p/2)
 2) Set Up a Virtual Environment 
-3) Install Dependencies ``` pip install -r requirements.txt ```
-4) Extract Data ``` python src/extract_landmarks.py ```
-5) Train the AI Models ```  python src/train_experts.py ```
-6) Launch the Live Tracker ```   python src/run_inference.py ```
+3) Install Dependencies ----> ```pip install -r requirements.txt```
+4) Extract Data ------------> ```python src/extract_landmarks.py```
+5) Train the AI Models -----> ```python src/train_experts.py```
+6) Launch the Live Tracker -> ```python src/run_inference.py```
 
 
 
